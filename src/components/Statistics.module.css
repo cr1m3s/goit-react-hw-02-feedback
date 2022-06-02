@@ -1,0 +1,13 @@
+.chart{
+    padding-top: 50px;
+    list-style: none;
+    width: 300px;
+    margin: auto;
+}
+
+.rating{
+    padding-bottom: 5px;;
+    text-align: start;
+    color: steelblue;
+    font-size: 25px;
+}
